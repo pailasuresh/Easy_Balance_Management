@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.main {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 34px;
+}
+.sub-main {
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 24px;
+  width: 40vw;
+  background-size: cover;
+}
+.heading-container {
+  display: flex;
+}
+.logo {
+  background-color: #c7d2fe;
+  border-radius: 50%;
+  width: 100px;
+  height: 90px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 25px;
+  color: #7c3aed;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  margin-top: 50px;
+  font-weight: 800;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+.blc {
+  color: #585076;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.amount {
+  font-weight: bold;
+  font-size: 38px;
+  font-family: 'Roboto';
+  color: #c4c4c4;
+}
+
+.rupees {
+  color: #585076;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.sum {
+  color: #585076;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 23px;
+  justify-content: center;
+  align-items: center;
+}

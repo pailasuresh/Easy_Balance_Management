@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.btn {
+  width: 134px;
+  margin: 23px;
+  height: 47px;
+  background-color: #585076;
+  color: #c4c4c4;
+  text-align: center;
+  border: 2px solid #c4c4c4;
+  border-radius: 8px;
+  font-size: 22px;
+  font-family: 'Roboto';
+}
